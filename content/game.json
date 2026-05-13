@@ -1,0 +1,374 @@
+{
+  "name": "Avatar World",
+  "domain": "avatarworld.online",
+  "slug": "avatarworld",
+  "genre": "Dress Up",
+  "iframeUrl": "/game/index.html",
+  "seo": {
+    "title": "Avatar World Online - Free Dress Up Game, No Download",
+    "description": "Play Avatar World online for free. Style a doll avatar with outfits, makeup, and accessories directly in your browser.",
+    "keywords": [
+      "Avatar World",
+      "Avatar World online",
+      "Avatar World free",
+      "free online game",
+      "browser game"
+    ]
+  },
+  "homepage": {
+    "heroHeadline": "Play Avatar World online",
+    "heroSubtitle": "A light dress-up and styling game where you create looks, test outfits, and play instantly in the browser.",
+    "lede": "Avatar World is a creative fashion game about building a look piece by piece. Choose clothes, hairstyles, makeup details, and accessories, then adjust the final style until it feels complete.",
+    "stats": [
+      {
+        "value": "Free",
+        "label": "Browser Play"
+      },
+      {
+        "value": "0",
+        "label": "Downloads"
+      },
+      {
+        "value": "1",
+        "label": "Playable Route"
+      },
+      {
+        "value": "Quick",
+        "label": "Sessions"
+      }
+    ],
+    "about": {
+      "kicker": "Creative styling",
+      "headline": "A relaxed avatar dress-up game for quick creative play.",
+      "paragraph1": "Avatar World focuses on simple choices that add up to a finished character design. It is easy to start, but there is room to experiment with color, outfit balance, and small finishing touches.",
+      "paragraph2": "The game is best for players who enjoy casual styling, makeover games, and low-pressure creative play without downloads or signups."
+    },
+    "howToPlay": {
+      "headline": "How to play Avatar World",
+      "subheading": "Start with the basics, then improve one small decision at a time."
+    },
+    "steps": [
+      {
+        "icon": "folder",
+        "title": "Open the Game",
+        "desc": "Go to the Play page and let the local game wrapper load in your browser."
+      },
+      {
+        "icon": "eye",
+        "title": "Read the Screen",
+        "desc": "Check the first prompt, objective, or movement pattern before making your first move."
+      },
+      {
+        "icon": "hand",
+        "title": "Use Simple Controls",
+        "desc": "Play with mouse, trackpad, or touch depending on your device."
+      },
+      {
+        "icon": "target",
+        "title": "Focus on One Goal",
+        "desc": "Start with one main outfit idea, then add hair, makeup, and accessories after the overall style is clear."
+      },
+      {
+        "icon": "refresh",
+        "title": "Replay and Improve",
+        "desc": "Short sessions make it easy to retry, notice patterns, and play cleaner next time."
+      }
+    ],
+    "categories": [
+      {
+        "name": "Outfits",
+        "icon": "star",
+        "color": "#0f766e",
+        "bg": "#ccfbf1",
+        "img": "/level-thumbs/category-1.webp"
+      },
+      {
+        "name": "Hair",
+        "icon": "target",
+        "color": "#2563eb",
+        "bg": "#dbeafe",
+        "img": "/level-thumbs/category-2.webp"
+      },
+      {
+        "name": "Makeup",
+        "icon": "zap",
+        "color": "#d97706",
+        "bg": "#fef3c7",
+        "img": "/level-thumbs/category-3.webp"
+      },
+      {
+        "name": "Accessories",
+        "icon": "trophy",
+        "color": "#7c3aed",
+        "bg": "#ede9fe",
+        "img": "/level-thumbs/category-4.webp"
+      },
+      {
+        "name": "Design",
+        "icon": "crown",
+        "color": "#dc2626",
+        "bg": "#fee2e2",
+        "img": "/level-thumbs/category-5.webp"
+      }
+    ],
+    "features": [
+      {
+        "icon": "palette",
+        "title": "Creative outfit building",
+        "desc": "Mix clothing, hairstyles, and accessories into a complete avatar look."
+      },
+      {
+        "icon": "bolt",
+        "title": "Instant browser play",
+        "desc": "Open the page and play without a download, login, or app-store step."
+      },
+      {
+        "icon": "sparkle",
+        "title": "Light makeover flow",
+        "desc": "Small choices build naturally from base style to final details."
+      },
+      {
+        "icon": "device",
+        "title": "Touch and mouse controls",
+        "desc": "The game is comfortable on desktop, tablet, and mobile browsers."
+      },
+      {
+        "icon": "shield",
+        "title": "Safe page positioning",
+        "desc": "Copy avoids official-brand claims, purchases, rewards, and misleading install prompts."
+      },
+      {
+        "icon": "heart",
+        "title": "Relaxed pacing",
+        "desc": "There is no need to rush; the fun is in testing combinations."
+      }
+    ],
+    "faq": [
+      {
+        "q": "What is Avatar World?",
+        "a": "Avatar World is a free browser game focused on creative styling. It runs through the local /game/index.html route on this site."
+      },
+      {
+        "q": "Is Avatar World free to play?",
+        "a": "Yes. The game page is free to open in a modern browser, with no account or download required."
+      },
+      {
+        "q": "Do I need to install anything?",
+        "a": "No. Open the Play page and the game loads inside the browser iframe wrapper."
+      },
+      {
+        "q": "Does it work on mobile?",
+        "a": "The page is responsive, and the embedded game is intended for browser play on common desktop and mobile devices."
+      },
+      {
+        "q": "Is this an official app page?",
+        "a": "No. This is an independent browser play page that embeds a free web game source."
+      },
+      {
+        "q": "What is the best beginner tip?",
+        "a": "Start with one main outfit idea, then add hair, makeup, and accessories after the overall style is clear."
+      }
+    ],
+    "cta": {
+      "headline": "Play Avatar World in your browser.",
+      "subtext": "No signup, no install, and no pressure to download an app."
+    }
+  },
+  "playPage": {
+    "howItWorksSubtitle": "Three simple steps to start playing",
+    "steps": [
+      {
+        "title": "Open Avatar World",
+        "desc": "Visit the Play page and wait for the game frame to load."
+      },
+      {
+        "title": "Learn the Controls",
+        "desc": "Use the first few moments to understand the buttons, taps, or movement pattern."
+      },
+      {
+        "title": "Play a Clean Round",
+        "desc": "Start with one main outfit idea, then add hair, makeup, and accessories after the overall style is clear."
+      }
+    ]
+  },
+  "faqPage": {
+    "items": [
+      {
+        "q": "What is Avatar World?",
+        "a": "Avatar World is a free browser game focused on creative styling. It runs through the local /game/index.html route on this site."
+      },
+      {
+        "q": "Is Avatar World free to play?",
+        "a": "Yes. The game page is free to open in a modern browser, with no account or download required."
+      },
+      {
+        "q": "Do I need to install anything?",
+        "a": "No. Open the Play page and the game loads inside the browser iframe wrapper."
+      },
+      {
+        "q": "Does it work on mobile?",
+        "a": "The page is responsive, and the embedded game is intended for browser play on common desktop and mobile devices."
+      },
+      {
+        "q": "Is this an official app page?",
+        "a": "No. This is an independent browser play page that embeds a free web game source."
+      },
+      {
+        "q": "What is the best beginner tip?",
+        "a": "Start with one main outfit idea, then add hair, makeup, and accessories after the overall style is clear."
+      },
+      {
+        "q": "Can I play offline?",
+        "a": "No. The game needs an internet connection because the playable file is loaded from an external HTML5 game source."
+      },
+      {
+        "q": "Why does the tracker show a local route?",
+        "a": "The site points visitors to /game/index.html, while the real external iframe URL is stored separately as embedUrl."
+      }
+    ]
+  },
+  "howToPlayPage": {
+    "intro": "Avatar World is easy to start because it runs in the browser and uses direct on-screen interaction. The best approach is to learn the first objective, play carefully, and improve through short repeats.",
+    "steps": [
+      {
+        "title": "Open the Game",
+        "desc": "Use the Play page so the local wrapper can load the external game source."
+      },
+      {
+        "title": "Understand the Goal",
+        "desc": "Read the prompt, menu, or first screen before taking action."
+      },
+      {
+        "title": "Make Your First Move",
+        "desc": "Use a mouse, trackpad, or touch input and start with careful movements."
+      }
+    ],
+    "mechanic": {
+      "title": "Core Mechanic",
+      "desc": "Avatar World is built around selection and styling. You choose pieces from visual menus, combine them on the avatar, and refine the result through color and accessory choices."
+    },
+    "difficultyProgression": "The first moments introduce the basic interaction. Later attempts feel easier as you recognize patterns, menus, timing, or useful choices faster.",
+    "tips": [
+      {
+        "title": "Choose a theme first",
+        "desc": "Pick casual, party, cute, or bold before selecting individual pieces."
+      },
+      {
+        "title": "Limit strong colors",
+        "desc": "One or two bright colors usually look cleaner than using every option at once."
+      },
+      {
+        "title": "Balance the accessories",
+        "desc": "If the outfit is busy, use fewer jewelry or detail pieces."
+      },
+      {
+        "title": "Try contrast",
+        "desc": "A simple outfit can stand out with a different hairstyle or makeup color."
+      },
+      {
+        "title": "Review the full look",
+        "desc": "Zoom out mentally and check whether all pieces fit the same style."
+      }
+    ]
+  },
+  "blog": {
+    "headline": "Guides and Tips",
+    "subheading": "Practical notes for getting more out of Avatar World.",
+    "introParagraph": "These articles focus on clear, useful advice for playing Avatar World without download claims, misleading rewards, or official-app language.",
+    "posts": [
+      {
+        "slug": "getting-started",
+        "title": "Getting Started with Avatar World",
+        "excerpt": "A simple first-session guide for Avatar World.",
+        "category": "Guide",
+        "readTime": "4 min read",
+        "date": "2026-05-13",
+        "icon": "guide",
+        "sections": [
+          {
+            "heading": "What to Expect",
+            "paragraphs": [
+              "Avatar World focuses on simple choices that add up to a finished character design. It is easy to start, but there is room to experiment with color, outfit balance, and small finishing touches.",
+              "The game is best for players who enjoy casual styling, makeover games, and low-pressure creative play without downloads or signups."
+            ]
+          },
+          {
+            "heading": "Your First Round",
+            "paragraphs": [
+              "Open the Play page, wait for the frame to load, and spend a moment reading the first screen before interacting.",
+              "Start with one main outfit idea, then add hair, makeup, and accessories after the overall style is clear."
+            ]
+          },
+          {
+            "heading": "Why Short Sessions Work",
+            "paragraphs": [
+              "Short browser games are easiest to enjoy when you play with one goal at a time. A focused five-minute session can teach more than a rushed long one."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "tips-and-tricks",
+        "title": "Useful Tips for Avatar World",
+        "excerpt": "Small habits that make the game easier to understand and more enjoyable.",
+        "category": "Tips",
+        "readTime": "5 min read",
+        "date": "2026-05-13",
+        "icon": "tips",
+        "sections": [
+          {
+            "heading": "Start With Control",
+            "paragraphs": [
+              "Do not rush the first interaction. A clean start helps you understand what the game is asking from you.",
+              "Pick casual, party, cute, or bold before selecting individual pieces."
+            ]
+          },
+          {
+            "heading": "Improve One Habit",
+            "paragraphs": [
+              "One or two bright colors usually look cleaner than using every option at once.",
+              "If the outfit is busy, use fewer jewelry or detail pieces."
+            ]
+          },
+          {
+            "heading": "Replay With Purpose",
+            "paragraphs": [
+              "When you replay, focus on one improvement instead of trying to fix everything at once."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "safe-browser-play",
+        "title": "Playing Avatar World Safely in the Browser",
+        "excerpt": "What this page does and does not claim about the game.",
+        "category": "Safety",
+        "readTime": "3 min read",
+        "date": "2026-05-13",
+        "icon": "safe",
+        "sections": [
+          {
+            "heading": "No Download Needed",
+            "paragraphs": [
+              "The game is presented through a browser iframe route. You do not need to install an app or create an account to open the play page."
+            ]
+          },
+          {
+            "heading": "Independent Embed Page",
+            "paragraphs": [
+              "This site is an independent game page. It does not claim to be the official developer, publisher, or app-store listing."
+            ]
+          },
+          {
+            "heading": "General Audience Copy",
+            "paragraphs": [
+              "The page avoids real-money promises, guaranteed rewards, misleading ownership claims, and pressure-based download language."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "embedUrl": "https://html5.gamemonetize.co/uxis95l3lvbl3kuksiu9orcoma518lzd/",
+  "embedSource": "GameMonetize - Anime Doll Avatar World"
+}
